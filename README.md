@@ -40,5 +40,10 @@
 ### ⚙ Installation
 
 **1️⃣ Clone repository**
-git clone https://github.com/eliksaidaliev9/fast-food-bot.git
-cd fast-food-bot
+- git clone https://github.com/eliksaidaliev9/Fast_food_bot.git
+- cd Fast_food_bot
+
+**2️⃣ Create virtual environment**
+- python -m venv venv
+- source venv/bin/activate   # Linux / Mac
+- venv\Scripts\activate      # Windows
