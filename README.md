@@ -29,6 +29,8 @@
 
 🗄 SQLite relational database
 
+---
+
 ### 🛠 Technologies Used
 
 - Python 3
@@ -39,13 +41,61 @@
 - Inline & Reply Keyboards
 - Custom State Management
 
+---
+
 ### ⚙ Installation
 
 **1️⃣ Clone repository**
+
 - git clone https://github.com/eliksaidaliev9/Fast_food_bot.git
 - cd Fast_food_bot
 
 **2️⃣ Create virtual environment**
+
 - python -m venv venv
 - source venv/bin/activate   # Linux / Mac
 - venv\Scripts\activate      # Windows
+
+**3️⃣ Configure Bot Token and Admin id
+Create .env file or add your Telegram Bot Token and admin id inside the project:**
+
+- ADMIN_ID=your_telegram_admin_id
+- BOT_TOKEN=your_telegram_bot_token
+
+**4️⃣ Run the bot**
+
+- python main.py
+
+---
+
+### 📌 How It Works
+
+User selects language
+
+Completes registration (name + phone number)
+
+Browses categories
+
+Adds products to cart
+
+Selects payment method
+
+Shares location
+
+Order is sent to admin
+
+---
+
+📈 Project Purpose
+
+- This project was built to demonstrate:
+
+- Backend architecture understanding
+
+- Database design skills
+
+- State-driven application logic
+
+- Real-world business flow implementation
+
+- Telegram Bot API integration
