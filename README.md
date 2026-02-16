@@ -1,2 +1,4 @@
-# Fast_food_bot
-Multi-language Telegram food ordering bot built with Python. Supports registration, cart system, order management, location sharing, and admin notifications.
+### 🤖 Food Ordering Telegram Bot
+
+- A fully functional multi-language Telegram food ordering bot built with Python and SQLite.
+- The bot provides complete user registration, cart management, order processing, location-based delivery, and automatic admin notifications.
