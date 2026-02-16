@@ -26,3 +26,19 @@
 🧩 Decorator-based user validation
 
 🗄 SQLite relational database
+
+### 🛠 Technologies Used
+
+- Python 3
+- python-telegram-bot
+- SQLite
+- SQL
+- OOP principles
+- Inline & Reply Keyboards
+- Custom State Management
+
+### ⚙ Installation
+
+**1️⃣ Clone repository**
+git clone https://github.com/eliksaidaliev9/fast-food-bot.git
+cd fast-food-bot
