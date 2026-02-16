@@ -1,4 +1,6 @@
 from telegram.ext import Updater, CommandHandler, CallbackQueryHandler, MessageHandler, Filters, ConversationHandler
+import os
+from dotenv import load_dotenv
 
 import methods
 from database import Database
@@ -6,8 +8,11 @@ from register import check
 from messages import message_handler
 from inlines import inline_handler
 import globals
-ADMIN_ID = 74163413
-TOKEN = "7591060437:AAFprqLTmTyz15U5Fg9V2tTa0HjojpG2bG0"
+
+load_dotenv()
+
+ADMIN_ID = int(os.getenv("ADMIN_ID"))
+TOKEN = os.getenv("TOKEN")
 
 db = Database("db-evos.db")
 
