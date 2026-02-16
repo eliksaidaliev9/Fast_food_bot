@@ -1,11 +1,11 @@
-### 🤖 Food Ordering Telegram Bot
+# 🤖 Food Ordering Telegram Bot
 
 - A fully functional multi-language Telegram food ordering bot built with Python and SQLite.
 - The bot provides complete user registration, cart management, order processing, location-based delivery, and automatic admin notifications.
 
 ---
 
-### 🚀 Features
+# 🚀 Features
 
 🌍 Multi-language support (Uzbek 🇺🇿 / Russian 🇷🇺 / English 🇬🇧)
 
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠 Technologies Used
+# 🛠 Technologies Used
 
 - Python 3
 - python-telegram-bot
@@ -43,7 +43,7 @@
 
 ---
 
-### ⚙ Installation
+# ⚙ Installation
 
 **1️⃣ Clone repository**
 
@@ -68,7 +68,7 @@ Create .env file or add your Telegram Bot Token and admin id inside the project:
 
 ---
 
-### 📌 How It Works
+# 📌 How It Works
 
 - User selects language
 
@@ -86,7 +86,7 @@ Create .env file or add your Telegram Bot Token and admin id inside the project:
 
 ---
 
-📈 Project Purpose
+# 📈 Project Purpose
 
 - This project was built to demonstrate:
 
@@ -99,3 +99,17 @@ Create .env file or add your Telegram Bot Token and admin id inside the project:
 - Real-world business flow implementation
 
 - Telegram Bot API integration
+
+---
+
+# 🤝 Contributing
+
+**Contributions are welcome!**
+
+**Feel free to:**
+
+• open issues
+
+• suggest improvements
+
+• submit pull requests
