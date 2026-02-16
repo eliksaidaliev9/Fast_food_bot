@@ -4,8 +4,8 @@
 - The bot provides complete user registration, cart management, order processing, location-based delivery, and automatic admin notifications.
 
 ---
+
 ### 🚀 Features
----
 
 🌍 Multi-language support (Uzbek 🇺🇿 / Russian 🇷🇺 / English 🇬🇧)
 
@@ -70,19 +70,19 @@ Create .env file or add your Telegram Bot Token and admin id inside the project:
 
 ### 📌 How It Works
 
-User selects language
+- User selects language
 
-Completes registration (name + phone number)
+- Completes registration (name + phone number)
 
-Browses categories
+- Browses categories
 
-Adds products to cart
+- Adds products to cart
 
-Selects payment method
+- Selects payment method
 
-Shares location
+- Shares location
 
-Order is sent to admin
+- Order is sent to admin
 
 ---
 
