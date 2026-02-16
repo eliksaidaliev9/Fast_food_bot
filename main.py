@@ -9,10 +9,12 @@ from messages import message_handler
 from inlines import inline_handler
 import globals
 
+
 load_dotenv()
 
 ADMIN_ID = int(os.getenv("ADMIN_ID"))
 TOKEN = os.getenv("TOKEN")
+
 
 db = Database("db-evos.db")
 
